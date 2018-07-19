@@ -1,0 +1,7 @@
+[
+    {
+        "model-name": "DeliverySource",
+        "resource-file": "delivery_sources.json",
+        "table-name": "delivery_sources"
+    }
+]
